@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211822231747",
+    "project_id": "finwallet-8a432",
+    "storage_bucket": "finwallet-8a432.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211822231747:android:424b2c44e4f1dd64dce276",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxHT6T6uRROsPaQWaUsi11fOQoRjWONmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211822231747:android:d710c56a83bfc855dce276",
+        "android_client_info": {
+          "package_name": "com.mycompany.fawallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxHT6T6uRROsPaQWaUsi11fOQoRjWONmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
